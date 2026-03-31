@@ -16,23 +16,46 @@ Hi, I'm Said! A passionate web application developer who thrives at the intersec
 
 ---
 
-### 📈 GitHub Stats
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=smrini&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=smrini&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117)
-
-</div>
-
----
-
 ### 🌱 Currently
 
 - 📚 Learning: **I'm currently immersing myself in advanced web application development techniques to enhance my skill set and embrace the latest industry trends.**
+- 🔦 Working on: Pacsea (small TUI improvements), configuration and tooling for Hyprland (My Personal Arch+Hyprland Setup), and products design like the PC-Nexus, MacroBridge and QMK-20KeyPad...
 - 🤝 Open to collaborate on: **Let's team up on web applications, 3D design, or pioneering electronics projects that push the boundaries of innovation.**
-- 💬 Ask me about: **Web development, 3D modelling, Electronics or the latest trends in programming languages.**
+- 💬 Ask me about: **Web development, 3D modelling, Electronics...** But Never ask me about **the latest trends in programming languages.**
+- ✨ Looking For Stability and relaiabelity and not glair, and if it works, its good enaugh.
+
+You can see more activity on my GitHub profile: https://github.com/smrini
+
+---
+
+### 📈 Top Projects
+
+Here are some highlights from my repositories:
+
+1. [MacroBridge](https://github.com/smrini/macrobridge)
+   - Description: A MacroPad that connects to your Graphic Tablet and extends its functionality
+   - Language: QMk + C
+     
+2. [Hyprland](https://github.com/smrini/Hyprland)
+   - Description: (Config / CSS assets) Public repository for Hyprland-related styling and configs
+  
+3. [NodePuls](https://github.com/smrini/NodePuls)
+   - Description: A beautiful, lightweight real-time homelab monitoring dashboard
+   - Language: React + Node.js + TypeScript
+       
+4. [img2stl](https://github.com/smrini/img2stl)
+   - Description: Image-to-STL converter (convert images into 3D printable models)
+   - Language: Python
+
+5. [QMK-20KeyPad](https://github.com/smrini/QMK-20keyPad)
+   - Description: QMK-Powered 20-Key Macro Keypad with RP2040 and Flexible Development Options
+   - Language: QMK + C
+
+5. [LumiGrid](https://github.com/smrini/LumiGrid)
+   - Description: A nich desk gadget, powerd by esp32-s6 and a matrix display
+   - Language: c++
+  
+Note: These are handfull of projects that i think were cool, but you can find even more in the list of repository.
 
 ---
 
@@ -40,7 +63,7 @@ Hi, I'm Said! A passionate web application developer who thrives at the intersec
 
 <div align="center">
 
-[![Website](https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](www.smrini.com) [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact@smrini.com) [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/smrini)
+[![Website](https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.smrini.com) [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact@smrini.com) [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/smrini)
 
 </div>
 
