@@ -10,25 +10,24 @@ Hi, I'm Said! A passionate web application developer who thrives at the intersec
 
 ---
 
-### 💻 Tech Stack
+### Tech Stack
 
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white) ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white) ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) ![Vue](https://img.shields.io/badge/Vue-4FC08D?style=for-the-badge&logo=vue&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white) ![C](https://img.shields.io/badge/C-333?style=for-the-badge&logo=c&logoColor=white) ![QMK](https://img.shields.io/badge/QMK-333?style=for-the-badge&logo=qmk&logoColor=white) ![ZMK](https://img.shields.io/badge/ZMK-333?style=for-the-badge&logo=zmk&logoColor=white) ![AHK](https://img.shields.io/badge/AHK-333?style=for-the-badge&logo=ahk&logoColor=white) ![3D modeling](https://img.shields.io/badge/3D%20modeling-333?style=for-the-badge&logo=3dmodeling&logoColor=white) ![3D printing](https://img.shields.io/badge/3D%20printing-333?style=for-the-badge&logo=3dprinting&logoColor=white) ![Autodesk Fusion](https://img.shields.io/badge/Autodesk%20Fusion-333?style=for-the-badge&logo=autodeskfusion&logoColor=white) ![PCB CAD](https://img.shields.io/badge/PCB%20CAD-333?style=for-the-badge&logo=pcbcad&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-333?style=for-the-badge&logo=adobephotoshop&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/Adobe%20Illustrator-333?style=for-the-badge&logo=adobeillustrator&logoColor=white) ![Arduino](https://img.shields.io/badge/Arduino-333?style=for-the-badge&logo=arduino&logoColor=white) ![ESP32](https://img.shields.io/badge/ESP32-333?style=for-the-badge&logo=esp32&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white) ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white) ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) ![Nuxt.js](https://img.shields.io/badge/Nuxt-%23020618?style=for-the-badge&logo=nuxt&color=%23020618) ![Vue](https://img.shields.io/badge/Vue-4FC08D?style=for-the-badge&logo=vue&logoColor=white) ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white) ![AHK](https://img.shields.io/badge/AHK-%23eaebec?style=for-the-badge&logo=autohotkey&logoColor=%23333333) ![Arduino](https://img.shields.io/badge/Arduino-%23008184?style=for-the-badge&logo=arduino&color=%23008184) ![ESP32](https://img.shields.io/badge/ESP32-%23e7352c?style=for-the-badge&logo=espressif&logoColor=white&color=%23e7352c) ![C](https://img.shields.io/badge/C-333?style=for-the-badge&logo=c&logoColor=white) ![QMK](https://img.shields.io/badge/QMK-333?style=for-the-badge&logo=qmk&logoColor=white) ![ZMK](https://img.shields.io/badge/ZMK-333?style=for-the-badge&logo=zmk&logoColor=white) ![3D modeling](https://img.shields.io/badge/3D%20modeling-333?style=for-the-badge&logo=3dmodeling&logoColor=white) ![3D printing](https://img.shields.io/badge/3D%20printing-333?style=for-the-badge&logo=3dprinting&logoColor=white) ![Autodesk Fusion](https://img.shields.io/badge/Autodesk%20Fusion-333?style=for-the-badge&logo=autodeskfusion&logoColor=white) ![PCB CAD](https://img.shields.io/badge/PCB%20CAD-333?style=for-the-badge&logo=pcbcad&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-333?style=for-the-badge&logo=adobephotoshop&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/Adobe%20Illustrator-333?style=for-the-badge&logo=adobeillustrator&logoColor=white)
 
 ---
 
-### 🌱 Currently
+### Currently
 
-- 📚 Learning: **I'm currently immersing myself in advanced web application development techniques to enhance my skill set and embrace the latest industry trends.**
-- 🔦 Working on: Pacsea (small TUI improvements), configuration and tooling for Hyprland (My Personal Arch+Hyprland Setup), and products design like the PC-Nexus, MacroBridge and QMK-20KeyPad...
-- 🤝 Open to collaborate on: **Let's team up on web applications, 3D design, or pioneering electronics projects that push the boundaries of innovation.**
-- 💬 Ask me about: **Web development, 3D modelling, Electronics...** But Never ask me about **the latest trends in programming languages.**
-- ✨ Looking For Stability and relaiabelity and not glair, and if it works, its good enaugh.
+- Learning: **I'm currently immersing myself in advanced web application development techniques to enhance my skill set and embrace the latest industry trends.**
+- Open to collaborate on: **Let's team up on web applications, 3D design, or pioneering electronics projects**
+- Ask me about: **Web development, 3D modelling, Electronics...** But Never ask me about **the latest trends in programming languages.**
+- Looking For Stability and relaiabelity and not glair, and if it works, its good enaugh.
 
 You can see more activity on my GitHub profile: https://github.com/smrini
 
 ---
 
-### 📈 Top Projects
+### Top Projects
 
 Here are some highlights from my repositories:
 
@@ -59,7 +58,7 @@ Note: These are handfull of projects that i think were cool, but you can find ev
 
 ---
 
-### 📫 Let's Connect
+### Let's Connect
 
 <div align="center">
 
@@ -71,7 +70,7 @@ Note: These are handfull of projects that i think were cool, but you can find ev
 
 <div align="center">
 
-⚡ I'm a polyglot! I speak Arabic, English, Catalan, Spanish, and French, which adds a unique flair to my collaborative projects.
+I'm a polyglot! I speak Arabic, English, Catalan, Spanish, and French, which adds a unique flair to my collaborative projects.
 
 </div>
 
